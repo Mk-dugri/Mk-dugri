@@ -1,55 +1,67 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/165674949?v=4" width="150" style="border-radius: 50%;" />
-</p>
+<!-- Animated Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:00AAAA&height=120&section=header&text=MONU%20(Mk-dugri)&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+</div>
 
-<h1 align="center">Hi, I'm MONU 👋</h1>
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+MONU+(Mk-dugri);Cybersecurity+Researcher+🔐;Ethical+Hacker+🛡️;Digital+Forensics+Expert+🔍;Bug+Bounty+Hunter+🎯🔥" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Cybersecurity+Researcher" alt="Typing SVG" />
-</p>
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mk-dugri&label=Profile+Views&color=00ffff&style=flat-square" alt="Profile views" />
+</div>
 
 ---
 
-### 🚀 About Me
+## 🎯 **About Me**
 
-<div align="center" style="background: #0a0a0a; border-radius: 15px; padding: 20px; max-width: 700px; margin: auto; box-shadow: 0 0 20px #00ff88cc;">
+I'm a **cybersecurity student** with a deep passion for **ethical hacking**, **digital forensics**, and tackling real-world security challenges beyond the classroom. I actively contribute to the cybersecurity community through research, tool development, and educational content.
 
-<p align="justify" style="font-size: 1.1rem; color: #ccc; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  
-I'm <b style="color: #00ff88;">MONU (Mk-dugri)</b>, a passionate <i>cybersecurity student</i> and ethical hacker dedicated to making the digital world safer. I specialize in:
-</p>
+- 🔐 **Cybersecurity Researcher** specializing in vulnerability analysis
+- 🛡️ **Ethical Hacker** focused on responsible disclosure
+- 🔍 **Digital Forensics** expert in evidence analysis
+- 🎯 **Bug Bounty Hunter** finding critical vulnerabilities
+- 📚 **Content Creator** on YouTube [@MAGICOFMATHEMATICS001](https://www.youtube.com/@MAGICOFMATHEMATICS001)
 
-<ul align="left" style="font-size: 1.1rem; color: #ccc; list-style-type: none; padding-left: 0;">
-  <li>⚡️ <b>Vulnerability Research</b> — Finding bugs before the bad guys do</li>
-  <li>🔍 <b>Penetration Testing</b> — Breaking things to make them stronger</li>
-  <li>🕵️‍♂️ <b>Digital Forensics</b> — Tracking down digital footprints</li>
-</ul>
+---
 
-<p align="justify" style="font-size: 1.1rem; color: #ccc; margin-top: 1rem;">
-I also create <a href="#" style="color: #00ff88;">YouTube content</a> and contribute to open-source security tools to share knowledge with the community.
-</p>
+## 🔥 **Current Projects & Research**
+
+### 🛡️ **Active Security Research**
+- 🔍 Advanced polyglot file analysis and manipulation
+- 🎯 Web application vulnerability assessment automation
+- 🛠️ Custom forensics toolkit development
+- 📊 Security metrics and reporting frameworks
+
+---
+
+## 🌐 **Connect With Me**
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Mk--dugri-00FF00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mk-dugri)
+[![YouTube](https://img.shields.io/badge/YouTube-@MAGICOFMATHEMATICS001-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MAGICOFMATHEMATICS001)
+[![FileFusion](https://img.shields.io/badge/FileFusion-Live_Demo-00FFFF?style=for-the-badge&logo=vercel&logoColor=white)](https://filefusion.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-00FF00?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
 </div>
 
 ---
 
-### 🔧 Skills & Tools
+## 💡 **Philosophy**
 
-<p align="center">
-  <code>🐍 Python</code> &nbsp;&nbsp; <code>🖥️ Bash</code> &nbsp;&nbsp; <code>🧰 Metasploit</code> &nbsp;&nbsp; <code>🔍 Wireshark</code> &nbsp;&nbsp; <code>🏹 Burp Suite</code> &nbsp;&nbsp; <code>🐘 PostgreSQL</code> <br />
-  <code>💡 Kali Linux</code> &nbsp;&nbsp; <code>Parrot OS</code> &nbsp;&nbsp; <code>VirtualBox</code> &nbsp;&nbsp; <code>Docker</code>
-</p>
+> *"In cybersecurity, we don't just find vulnerabilities - we build bridges to a safer digital world."*
+
+<div align="center">
+  
+**🛡️ Ethical Hacking** • **🔍 Digital Forensics** • **🎯 Security Research** • **📚 Knowledge Sharing**
+
+</div>
 
 ---
 
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/Mk-dugri">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:00AAAA&height=120&section=footer" />
+</div>
