@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+MONU+(<a href="https://mk-dugri.github.io/">Mk-dugri</a>);Cybersecurity+Researcher+🔐;Ethical+Hacker+🛡️;Digital+Forensics+Expert+🔍;Bug+Bounty+Hunter+🎯🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+MONU+(MK-dugri);Cybersecurity+Researcher+🔐;Ethical+Hacker+🛡️;Digital+Forensics+Expert+🔍;Bug+Bounty+Hunter+🎯🔥" alt="Typing SVG" />
 </div>
 
 <!-- Profile Views Counter -->
