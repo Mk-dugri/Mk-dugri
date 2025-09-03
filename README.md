@@ -15,7 +15,7 @@
 
 ---
 
-## 🎯 **About Me**
+## 🎯 **About Me <a href="https://mk-dugri.github.io/">portfolio</a>**
 
 I'm a **cybersecurity student** with a deep passion for **ethical hacking**, **digital forensics**, and tackling real-world security challenges beyond the classroom. I actively contribute to the cybersecurity community through research, tool development, and educational content.
 
