@@ -23,9 +23,8 @@ I'm a **cybersecurity student** with a deep passion for **ethical hacking**, **d
 - 🛡️ **Ethical Hacker** focused on responsible disclosure
 - 🔍 **Digital Forensics** expert in evidence analysis
 - 🎯 **Bug Bounty Hunter** finding critical vulnerabilities
-- ** <a href="https://mk-dugri.github.io/">portfolio</a>**
 - 📚 **Content Creator** on YouTube [@MAGICOFMATHEMATICS001](https://www.youtube.com/@MAGICOFMATHEMATICS001)
-
+##**<a href="https://mk-dugri.github.io/">portfolio</a>**
 ---
 
 ## 🔥 **Current Projects & Research**
